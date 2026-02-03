@@ -32,7 +32,7 @@ function expensiveExpand(products: typeof baseProducts) {
   return expanded;
 }
 
-// INTENTIONAL UI/UX BUG: random order to make the list feel messy
+// INTENTIONAL DESIGN: random order to make the list feel messy
 const seed = 123456;
 const PRODUCTS_PAYLOAD = expensiveExpand(baseProducts);
 shuffleInPlace(PRODUCTS_PAYLOAD, seed);
