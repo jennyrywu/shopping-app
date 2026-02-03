@@ -1,4 +1,4 @@
-# Catalog Interview — Next.js App Router Exercise
+# Coding Challenge - Shopping List App
 
 **Time Limit:** ~50 minutes  
 **Resources allowed:** Google, Stack Overflow, AI tool of your choice
