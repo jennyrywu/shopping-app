@@ -1,5 +1,3 @@
-"use client";
-
 import SearchBar from "./search-bar";
 import AddToShoppingListButton from "./add-to-shopping-list-button";
 import type { Product } from "@/app/lib/types";
